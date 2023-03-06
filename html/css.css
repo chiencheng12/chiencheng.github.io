@@ -6,7 +6,7 @@ body, html{
     background-color: #cccccc;
 }
 .background {
-    margin-top: 50px;
+    margin-top: 10px;
     margin-left: 300px;
     width: 50%;
     height: 50%;
@@ -43,6 +43,10 @@ body, html{
     border-radius:50%;
     border-top: 6px solid rgb(246, 241, 241);
     animation: spin 0.5s linear infinite;
+}
+
+.textcenter{
+    margin-left: 600px;
 }
 
 @keyframes size{
